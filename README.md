@@ -12,6 +12,10 @@ Smaller ones
 - Tiny package to animate numbers [`@gitart/animate-number`](https://www.npmjs.com/package/gitart-animate-number)
 - My eslint configs `@gitart/eslint-config-basic` `@gitart/eslint-config-ts` `@gitart/eslint-config-vue`
 
+## Other projects
+
+- Skrynia Game [`Скриня`](https://skrynia-game.com) - Game for communication in ukrainian
+
 ---
 
 I’m currently learning everything related to Vue 3 and TS 😄
